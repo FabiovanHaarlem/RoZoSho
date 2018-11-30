@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 534c0bb7d45a11e48abddaa163b406a5
+timeCreated: 1529586602
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: electrical_wires
+    100002: electrical_wires1
+    100004: electrical_wires2
+    100006: electrical_wires3
+    100008: lights_Bottom
+    100010: lights_Top
+    100012: pCube60
+    100014: pCube60 1
+    100016: pCube60 2
+    100018: pCube60 3
+    100020: pCube92
+    100022: pCube92 1
+    100024: pCube92 2
+    100026: pCube92 3
+    100028: pCube93
+    100030: pCube93 1
+    100032: pCube93 2
+    100034: pCube93 3
+    100036: pCube94
+    100038: pCube94 1
+    100040: pCube94 2
+    100042: pCube94 3
+    100044: pCube95
+    100046: pCube95 1
+    100048: pCube95 2
+    100050: pCube95 3
+    100052: pCylinder27
+    100054: pCylinder27 1
+    100056: pCylinder27 2
+    100058: pCylinder27 3
+    100060: pCylinder32
+    100062: pCylinder32 1
+    100064: pCylinder32 2
+    100066: pCylinder32 3
+    100068: pSphere19
+    100070: pSphere19 1
+    100072: pSphere24
+    100074: pSphere24 1
+    100076: pSphere25
+    100078: pSphere25 1
+    100080: pSphere26
+    100082: pSphere26 1
+    100084: //RootNode
+    400000: electrical_wires
+    400002: electrical_wires1
+    400004: electrical_wires2
+    400006: electrical_wires3
+    400008: lights_Bottom
+    400010: lights_Top
+    400012: pCube60
+    400014: pCube60 1
+    400016: pCube60 2
+    400018: pCube60 3
+    400020: pCube92
+    400022: pCube92 1
+    400024: pCube92 2
+    400026: pCube92 3
+    400028: pCube93
+    400030: pCube93 1
+    400032: pCube93 2
+    400034: pCube93 3
+    400036: pCube94
+    400038: pCube94 1
+    400040: pCube94 2
+    400042: pCube94 3
+    400044: pCube95
+    400046: pCube95 1
+    400048: pCube95 2
+    400050: pCube95 3
+    400052: pCylinder27
+    400054: pCylinder27 1
+    400056: pCylinder27 2
+    400058: pCylinder27 3
+    400060: pCylinder32
+    400062: pCylinder32 1
+    400064: pCylinder32 2
+    400066: pCylinder32 3
+    400068: pSphere19
+    400070: pSphere19 1
+    400072: pSphere24
+    400074: pSphere24 1
+    400076: pSphere25
+    400078: pSphere25 1
+    400080: pSphere26
+    400082: pSphere26 1
+    400084: //RootNode
+    2100000: lambert2
+    2100002: lambert1
+    2300000: electrical_wires
+    2300002: electrical_wires1
+    2300004: electrical_wires2
+    2300006: electrical_wires3
+    2300008: lights_Bottom
+    2300010: lights_Top
+    2300012: pCube60
+    2300014: pCube60 1
+    2300016: pCube60 2
+    2300018: pCube60 3
+    2300020: pCube92
+    2300022: pCube92 1
+    2300024: pCube92 2
+    2300026: pCube92 3
+    2300028: pCube93
+    2300030: pCube93 1
+    2300032: pCube93 2
+    2300034: pCube93 3
+    2300036: pCube94
+    2300038: pCube94 1
+    2300040: pCube94 2
+    2300042: pCube94 3
+    2300044: pCube95
+    2300046: pCube95 1
+    2300048: pCube95 2
+    2300050: pCube95 3
+    2300052: pCylinder27
+    2300054: pCylinder27 1
+    2300056: pCylinder27 2
+    2300058: pCylinder27 3
+    2300060: pCylinder32
+    2300062: pCylinder32 1
+    2300064: pCylinder32 2
+    2300066: pCylinder32 3
+    2300068: pSphere19
+    2300070: pSphere19 1
+    2300072: pSphere24
+    2300074: pSphere24 1
+    2300076: pSphere25
+    2300078: pSphere25 1
+    2300080: pSphere26
+    2300082: pSphere26 1
+    2300084: //RootNode
+    3300000: electrical_wires
+    3300002: electrical_wires1
+    3300004: electrical_wires2
+    3300006: electrical_wires3
+    3300008: lights_Bottom
+    3300010: lights_Top
+    3300012: pCube60
+    3300014: pCube60 1
+    3300016: pCube60 2
+    3300018: pCube60 3
+    3300020: pCube92
+    3300022: pCube92 1
+    3300024: pCube92 2
+    3300026: pCube92 3
+    3300028: pCube93
+    3300030: pCube93 1
+    3300032: pCube93 2
+    3300034: pCube93 3
+    3300036: pCube94
+    3300038: pCube94 1
+    3300040: pCube94 2
+    3300042: pCube94 3
+    3300044: pCube95
+    3300046: pCube95 1
+    3300048: pCube95 2
+    3300050: pCube95 3
+    3300052: pCylinder27
+    3300054: pCylinder27 1
+    3300056: pCylinder27 2
+    3300058: pCylinder27 3
+    3300060: pCylinder32
+    3300062: pCylinder32 1
+    3300064: pCylinder32 2
+    3300066: pCylinder32 3
+    3300068: pSphere19
+    3300070: pSphere19 1
+    3300072: pSphere24
+    3300074: pSphere24 1
+    3300076: pSphere25
+    3300078: pSphere25 1
+    3300080: pSphere26
+    3300082: pSphere26 1
+    3300084: //RootNode
+    4300000: Elevator_Tower
+    4300002: electrical_wires
+    4300004: pCube94
+    4300006: pCube93
+    4300008: pCube92
+    4300010: pCube60
+    4300012: pCylinder27
+    4300014: pCylinder32
+    4300016: pCube95
+    4300018: electrical_wires3
+    4300020: pCube94
+    4300022: pCube93
+    4300024: pCube92
+    4300026: pCube60
+    4300028: pCylinder27
+    4300030: pCylinder32
+    4300032: pCube95
+    4300034: electrical_wires2
+    4300036: pCube94
+    4300038: pCube93
+    4300040: pCube92
+    4300042: pCube60
+    4300044: pCylinder27
+    4300046: pCylinder32
+    4300048: pCube95
+    4300050: electrical_wires1
+    4300052: pCube94
+    4300054: pCube93
+    4300056: pCube92
+    4300058: pCube60
+    4300060: pCylinder27
+    4300062: pCylinder32
+    4300064: pCube95
+    4300066: lights_Top
+    4300068: pSphere19
+    4300070: pSphere24
+    4300072: pSphere25
+    4300074: pSphere26
+    4300076: lights_Bottom
+    4300078: pSphere19
+    4300080: pSphere24
+    4300082: pSphere25
+    4300084: pSphere26
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
